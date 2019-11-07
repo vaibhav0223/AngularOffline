@@ -1,6 +1,6 @@
 {
-  "name": "employeeApp",
-  "short_name": "employeeApp",
+  "name": "regisApp",
+  "short_name": "regisApp",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
